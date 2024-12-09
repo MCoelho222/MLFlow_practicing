@@ -41,9 +41,9 @@ def load_model():
         None
     """
     print('reading model...')
-    MLFLOW_TRACKING_URI = 'https://dagshub.com/renansantosmendes/mlops-ead.mlflow'
-    MLFLOW_TRACKING_USERNAME = 'renansantosmendes'
-    MLFLOW_TRACKING_PASSWORD = 'b63baf8c662a23fa00deb74ba86600278769e5dd'
+    MLFLOW_TRACKING_URI = 'https://dagshub.com/mcoelho5446/my-first-repo.mlflow'
+    MLFLOW_TRACKING_USERNAME = 'mcoelho5446'
+    MLFLOW_TRACKING_PASSWORD = '4235eb2114890884e7bce104441e0bc8b7efb1e0'
     os.environ['MLFLOW_TRACKING_USERNAME'] = MLFLOW_TRACKING_USERNAME
     os.environ['MLFLOW_TRACKING_PASSWORD'] = MLFLOW_TRACKING_PASSWORD
     print('setting mlflow...')
