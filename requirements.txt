@@ -1,5 +1,7 @@
+fastapi
 mlflow
 pandas
 tensorflow
 scikit-learn
+pydantic
 pytest
